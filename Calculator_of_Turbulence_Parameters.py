@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""Calculator of Initial Values and Boundary Conditions of K-e and k-w Turbulence Parameters"""
+"""Calculator of Initial Values and Boundary Conditions of K-e and k-w Turbulence Models"""
 
 __author__ = "Wassim Abdel Nour"
 __version__ = "1.0"
